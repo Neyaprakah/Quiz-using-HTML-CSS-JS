@@ -1,0 +1,28 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.buta,.butb,.butc,.butd{
+    width: 50px;
+    height: 50px;
+    background-color: violet;
+    color: white;
+    border: 1px solid violet;
+}
+.buta1,.butb1,.butc1,.butd1{
+    width: 300px;
+    height: 50px;
+    background-color: lavender;
+    border: 1px solid lavender;
+}
+.row2,.row3,.row4,.row5{
+    margin-top: 10px;
+}
+.container{
+    border: 2px solid rgb(193, 193, 255);
+    background-color: rgb(193, 193, 255);
+    padding: 50px;
+    padding-top: 30px;
+    width: 450px;
+    margin-top: 2%;
+    margin-left: 32%;
+}
